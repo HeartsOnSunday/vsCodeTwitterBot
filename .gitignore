@@ -1,0 +1,5 @@
+var KEY = function key() {
+    return 'iR3gK5exixXFf3ihRLJLZxSkZ';
+}
+
+var SECRET = 'YMpJJcjXFtj3U9XnZ2e6JI3vJLW1ZDIrUXyw2lduY4OwzJbfhS';
