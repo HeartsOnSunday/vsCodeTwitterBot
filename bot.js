@@ -15,8 +15,8 @@ var T = new Twit({
    // strictSSL:            true,     // optional - requires SSL certificates to be valid.
   })
 
-  console.log(process.env.TOKEN);
-  console.log(process.env.TOKEN_SECRET);
+  //console.log(T);
+  console.log(T.process.env.TOKEN_SECRET);
 
 
 
