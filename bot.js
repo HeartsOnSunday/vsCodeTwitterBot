@@ -9,7 +9,7 @@ require('dotenv').load();
 console.log('express has started');
 
 var config = require('./config');
-//console.log(config);
+console.log(config);
 
 var T = new Twit(config); 
 console.log(T);
